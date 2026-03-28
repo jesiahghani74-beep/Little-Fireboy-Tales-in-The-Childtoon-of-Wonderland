@@ -1,0 +1,9 @@
+# Mark image files as binary to prevent text-based diff/merge corruption
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.ico binary
+*.svg binary
+*.webp binary
